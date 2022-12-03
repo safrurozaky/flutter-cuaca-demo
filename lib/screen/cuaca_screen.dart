@@ -33,7 +33,7 @@ class _CuacaScreenState extends State<CuacaScreen> {
                   width: MediaQuery.of(context).size.width * 0.2 - 18,
                   child: TextButton(
                     onPressed: () {},
-                    child: Text("Cari"),
+                    child: Text("CARI"),
                   ),
                 ),
               ],
